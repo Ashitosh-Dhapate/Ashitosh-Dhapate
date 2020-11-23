@@ -9,7 +9,7 @@ I am full stack developer by profession. I love to learn new technologies and so
 - 🔭 I’m currently working on <b>Spring Boot</b>
 - 🌱 I’m currently mastering <b>Cyber Security</b>
 - 💬 Contact me here: <b>dhapateashu.ad@gmail.com</b>
-- 📫 How to reach me: [Webpage](https://ashitosh-dhapate.github.io/ashitoshdhapate.github.io/)
+- 📫 Reach me at: [Webpage](https://ashitosh-dhapate.github.io/)
 
 <br>
 
