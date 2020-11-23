@@ -2,6 +2,8 @@
 
 I am full stack developer by profession. I love to learn new technologies and solve various real life problems using them. I believe in peer to peer communication for problem solving and it's my passion to motivate others. Teaching is my hobby and whenever I get free time I invest it to train people in various technologies that I know.
 
+<br>
+
 ### Here are some current stuffs about me:
 
 - 🔭 I’m currently working on <b>Spring Boot</b>
