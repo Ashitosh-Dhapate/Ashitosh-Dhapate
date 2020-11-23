@@ -4,11 +4,9 @@ I am full stack developer by profession. I love to learn new technologies and so
 
 ### Here are some current stuffs about me:
 
-- 🔭 I’m currently working on Spring Boot
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on <b>Spring Boot</b>
+- 🌱 I’m currently mastering <b>Cyber Security</b>
+- 💬 Contact me here: <b>dhapateashu.ad@gmail.com</b>
 - 📫 How to reach me: [Webpage](https://ashitosh-dhapate.github.io/ashitoshdhapate.github.io/)
 
 
