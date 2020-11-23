@@ -10,12 +10,6 @@ I am full stack developer by profession. I love to learn new technologies and so
 - 📫 How to reach me: [Webpage](https://ashitosh-dhapate.github.io/ashitoshdhapate.github.io/)
 
 
-### Some less shared personal facts about me
-- I found happiness in instructing others on cutting edge technologies
-- I like woundering around and meet to new people, know their diversity and learn from that
-- I love to travel
-
-
 ### Languages and Tools I Work on:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
@@ -38,4 +32,7 @@ I am full stack developer by profession. I love to learn new technologies and so
 
 
 
-
+### Some less shared personal facts about me
+- I found happiness in instructing others on cutting edge technologies
+- I like woundering around and meet to new people, know their diversity and learn from that
+- I love to travel
