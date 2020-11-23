@@ -10,8 +10,7 @@ I am full stack developer by profession. I love to learn new technologies and so
 - 📫 How to reach me: [Webpage](https://ashitosh-dhapate.github.io/ashitoshdhapate.github.io/)
 
 <br>
-<br>
-<br>
+
 
 ### Languages and Tools I Work on:
 
