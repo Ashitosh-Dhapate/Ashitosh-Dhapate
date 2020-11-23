@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Some less shared personal facts about me
+- I found happiness in instructing others on cutting edge technologies
+- I like woundering around and meet to new people, know their diversity and learn from that
+- I love to travel
+
+
 ### Languages and Tools I Work on:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
