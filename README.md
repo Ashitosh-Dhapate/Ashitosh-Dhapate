@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am full stack developer by profession. I love to learn new technologies and solve various real life problems using them. I believe in peer to peer communication for problem solving and it's my passion to motivate others. Teaching is my hobby and whenever I get free time I invest it to train people in various technologies that I know.
+I am full stack developer by profession. I love to learn new technologies and solve various real life problems using them. I believe in peer to peer communication for problem solving and it's my passion to motivate others. Teaching is my hobby and whenever I get free time I invest it to train people in various technologies that I know. If I get free time from all this I do social work :)
 
 <br>
 
 ### Here are some current stuffs about me:
 
-- 🔭 I’m currently working on <b>Spring Boot</b>
-- 🌱 I’m currently mastering <b>Cyber Security</b>
+- 🔭 I’m currently working as <b>Graduate Teaching Assistant at Purdue University</b>
+- 🌱 I’m currently pursuing  <b>Master's in Computer Science from Purdue University</b>
 - 💬 Contact me here: <b>dhapateashu.ad@gmail.com</b>
 - 📫 Reach me at: [Webpage](https://ashitosh-dhapate.github.io/)
 
@@ -40,5 +40,7 @@ I am full stack developer by profession. I love to learn new technologies and so
 
 ### Some less shared personal facts about me
 - I found happiness in instructing others on cutting edge technologies
+- Teaching is my passion
 - I like woundering around and meet to new people, know their diversity and learn from that
 - I love to travel
+- I love to do social work
